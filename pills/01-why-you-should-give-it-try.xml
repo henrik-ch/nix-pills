@@ -262,9 +262,8 @@
      </para>
      <para>
        Considering <link
-       xlink:href="https://nixos.org/nixpkgs/">Nixpkgs</link> (<link
-       xlink:href="https://github.com/NixOS/nixpkgs">github
-       link</link>) is a completely new repository of all the existing
+       xlink:href="https://github.com/NixOS/nixpkgs">Nixpkgs (github
+       link)</link> is a completely new repository of all the existing
        software, with a completely fresh concept, and with few core
        developers but overall year-over-year increasing contributions,
        the current state is more than acceptable and beyond the
