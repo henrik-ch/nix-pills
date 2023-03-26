@@ -33,11 +33,11 @@
       The <link xlink:href="https://nixos.org/manual/nix">Nix</link>,
       <link xlink:href="https://nixos.org/manual/nixpkgs/">Nixpkgs</link>, and
       <link xlink:href="https://nixos.org/manual/nixos/">NixOS</link> manuals
-      along with <link xlink:href="https://nixos.wiki/">the wiki</link> are
-      excellent resources for explaining how Nix/NixOS works, how
-      you can use it, and how cool things are being done with it.
-      However, at the beginning you may feel that some of the magic
-      which happens behind the scenes is hard to grasp.
+      along with <link xlink:href="https://nixos.wiki/">the wiki</link> and 
+      <link xlink:href="https://nix.dev/">nix.dev</link> are excellent resources 
+      for explaining how Nix/NixOS works, how you can use it, and how cool 
+      things are being done with it. However, at the beginning you may feel 
+      that some of the magic which happens behind the scenes is hard to grasp.
     </para>
 
     <para>
@@ -247,7 +247,7 @@
        Not only that, due to its nature deploying systems in the cloud is
        so easy, consistent, and reliable that in the Nix world all
        existing self-containment and orchestration tools are
-       deprecated by <link xlink:href="http://nixos.org/nixops/">NixOps</link>.
+       deprecated by <link xlink:href="https://nixos.org/nixops/">NixOps</link>.
      </para>
      <para>
        It however <emphasis>currently</emphasis> falls short when
